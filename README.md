@@ -5,4 +5,10 @@ I am practising GIT with Sai Prashanth
 <br>
 I am editing testing readmde
 sgfdxkf
+<<<<<<< HEAD
 aefdzgzdkfh
+=======
+sfdxkjdzs
+sefcxbdljcvxd
+d
+>>>>>>> d40b7fbf489622540f35b0814e34fd5007ab80d1
